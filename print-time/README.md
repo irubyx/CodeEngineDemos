@@ -16,7 +16,7 @@ A continuación, se nos requiere indicar la frecuencia con la que se quiere crea
 
 ![](imgs/CronTutorial3.png)
 
-**Aclaración:** En este ejemplo, se omite la sección *"Custom event data"* ya que se escapa del scop de la demo, para profundizar más en el tema, dirigirse a la documentación oficial de Code Engine.
+**Aclaración:** En este ejemplo, se omite la sección *"Custom event data"* ya que se escapa del alcance de la demo, para profundizar más en el tema, dirigirse a la documentación oficial de Code Engine.
 
 El último paso previo a finalizar la creación del evento, es escoger qué aplicación o job se desea definir como consumidor del mismo. Una vez elegido, se da click en *"Next"* para ver el resumen de las opciones que se han elegido y por último, se da click en *"Create"*.
 

@@ -23,4 +23,3 @@ Actualmente las aplicaciones de demo disponibles en el repositorio son las sigui
   - Aplicación que dado una ubicación en el mundo, devuelve el clima actual en dicho lugar.
 
 Cada una de ellas contiene un archivo *README.md* el cuál contiene instrucciones de como utilizar la app o job y como hacer el despliegue en IBM Cloud Code Engine.
-

@@ -1,5 +1,5 @@
 # print-time
-Carpeta contenedora del código necesario para ejecutar el job *print-time*. Por default, el job necesita se debe ejecutar manualmente cuando sea necesario, en la siguiente sección se explica como agregar un evento periódico a un job y de esta manera dejarlo automatizado. 
+Carpeta contenedora del código necesario para ejecutar el job *print-time*. Por default, el job se debe ejecutar manualmente cuando sea necesario, en la siguiente sección se explica como agregar un evento periódico a un job y de esta manera dejarlo automatizado. 
 
 ## Como establecer un evento periódico
 Para establecer un evento periódico a un job, es necesario dirigirse a [IBM Cloud Code Engine](https://cloud.ibm.com/codeengine/projects) y acceder al proyecto que contiene el job en cuestión.

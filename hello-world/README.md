@@ -24,4 +24,3 @@ Una vez la aplicación quede lista para ejecutar, podemos entrar al link que de 
 Para modificar o borrar una variable de entorno, debemos hacer click nuevamente en *"Edit and create*" para luego entrar en la sección de *"Environment variables"*. Una vez dentro, podemos dar click en una variable para modificarla o simplemente dar click en el ícono del canasto de basura para borrar:
 
 ![] imagen de como borrar
-

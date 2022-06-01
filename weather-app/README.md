@@ -1,5 +1,6 @@
 # weather-app
-Carpeta contenedora del código necesario para ejecutar la app *weather-app*. La aplicación se encarga de devolver el pronostico del clima de la ubicación que le indiquemos.
+Carpeta contenedora del código necesario para ejecutar la app *weather-app*. La aplicación se encarga de devolver el pronostico del clima de la ubicación que le indiquemos. \
+La pestaña de *"About"* contiene una breve descripción de la app. Y la pestaña de *"Help"* no contiene una funcionalidad específica de momento.
 
 ## Como utilizar weather-app
 La aplicación es muy intuitiva, una vez desplegada debemos acceder al link que nos provee Code Engine. Veremos una interfaz básica que nos solicitará una ubicación:

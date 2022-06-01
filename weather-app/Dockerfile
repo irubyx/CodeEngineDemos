@@ -14,4 +14,4 @@ RUN npm install
 COPY . .
 
 # Comando para correr el programa
-CMD [ "node", "/src/app.js" ]
+CMD [ "node", "./src/app.js" ]

@@ -9,7 +9,7 @@ const app = express()
 app.get("/", (req, res) => {
     if (process.env.CE_SERVICES) {
         let ce_services = JSON.parse(process.env.CE_SERVICES)
-        res.send("Estos son los servicios vinculados: " + ce_services)
+        res.send("Estos son los servicios vinculados: " + ce_services[0])
     } else {
         const msg = "No existe CE_SERVICES"
         res.send(msg)

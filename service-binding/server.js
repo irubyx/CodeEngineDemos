@@ -8,8 +8,8 @@ const HOST = "0.0.0.0"
 const app = express()
 app.get("/", (req, res) => {
     if (process.env.CE_SERVICES) {
-        let ce_services = JSON.parse(process.env.CE_SERVICES)
-        res.send("Estos son los servicios vinculados: " + ce_services["cloud-object-storage"][0])
+        let ce_services = process.env.CE_SERVICES
+        res.send("Estos son los servicios vinculados: " + ce_services)
     } else {
         const msg = "No existe CE_SERVICES"
         res.send(msg)
